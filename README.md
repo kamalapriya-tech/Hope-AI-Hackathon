@@ -57,7 +57,7 @@ This feature works fully offline and showcases our creativity.
 ### 1. Clone the Repo
 
 bash
-git clone 
+git clone https://github.com/kamalapriya-tech/Hope-AI-Hackathon.git
 cd Hope-AI-Hackathon
 
 🛠️ Future Improvements
