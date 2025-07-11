@@ -69,4 +69,7 @@ Personalize study plans based on subjects or user level
 
 Add login & dashboard
 
+🔐 This project uses a `.env` file for secret keys. For this demo, the AI API is disabled.
+
+
 
